@@ -60,6 +60,7 @@
         "react-native-svg": ">=6.2.1"
     },
     "devDependencies": {
+        "@babel/compat-data": "^7.19.4",
         "@react-native-community/bob": "^0.10.0",
         "babel-eslint": "^7.2.3",
         "babel-jest": "20.0.1",
